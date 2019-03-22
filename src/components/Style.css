@@ -1,0 +1,209 @@
+@import '~antd/dist/antd.css';
+
+.topHeader {
+    text-align: center;
+    margin: 10px;
+}
+
+.headerUp {
+    text-align: center;
+}
+
+.headerList {
+    color: #5D5D5D;
+    padding-right: 32px;
+}
+
+.headerBorder {
+    background-color: #ffffff;
+    width: 100%;
+    height: 14.31%;
+    border: 1px #ffffff;
+    box-shadow: 0px 2px 3px #DDDDDD;
+}
+
+.searchBox {
+    width: 559px;
+    height: 38px;
+    margin-bottom: 38px;
+}
+
+.headerGreet {
+    color: #FB6900;
+    text-align: end;
+}
+
+.headerUser {
+    color: black;
+    margin-left: 100px;
+}
+
+.headerCategory {
+    color: #007E80;
+    text-align: center;
+    margin-left: 60px;
+    font-weight: bold;
+}
+
+.headerLeftLogo {
+    margin-top: -30px;
+    width: 300px;
+}
+
+.userDropdownLogin {
+    padding: 24px;
+}
+
+.userDropdownLoginYet {
+    padding-right: 120px;
+}
+
+.userDropdownLoginButton {
+    width: 100%;
+    height: 40px;
+}
+
+.loginFormRememberMe {
+    color: #4D4D4D;
+}
+
+.loginFormForget {
+    color: #007E80;
+    text-align: end;
+}
+
+ .loginFormButton {
+    color: #ffffff;
+    background-color: #FB6900;
+    width: 100%;
+    height: 40px;
+ }
+
+ .loginFormButtonGoogle {
+    width: 45%;
+    height: 40px;
+    padding: 2px;
+    color: #ffffff;
+    background-color: #D41313;
+    margin-right: 26px;
+ }
+
+ .loginFormButtonFacebook {
+    width: 45%;
+    height: 40px;
+    padding: 2px;
+    color: #ffffff;
+    background-color: #345796;
+ }
+
+ .loginFormOrRegisterWith {
+    color: #ADADAD;
+    text-align: center;
+    column-span: all;
+ }
+
+ .loginFormLastRegister {
+    color: #4D4D4D;
+    text-align: center;
+ }
+
+ .loginFormLastRegisterDaftar {
+     color: #F63700;
+ }
+
+ .bodyPageAll {
+     padding: 48px;
+ }
+
+ .BodyAvatar {
+     padding: 12px;
+     padding-bottom: 30px;
+ }
+
+ .BodyAvatarText {
+    padding-left: 12px;
+}
+
+.bodyCard {
+    background: #ffffff;
+    border-radius: 4px;
+    margin: 4px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.11);
+}
+
+.bodyContentCardTitleRow {
+    margin-bottom: -12px;
+    margin-top: 4px;
+}
+
+.bodyContentCardTitleImage {
+    width:100px;
+    margin-top:16px;
+}
+
+.bodyCardContentTitleProduct {
+    font-size:18px;
+    color:#4A4A4A;
+}
+
+.bodyCardContentTitleDetail {
+    font-size:16px;
+    color:#9B9B9B;
+}
+
+.bodyContentCardTitleCount {
+    font-size: 14px;
+    color: #4A4A4A;
+}
+
+.bodyContentCardTitlePrice {
+    font-size: 14px;
+    color: #4A4A4A;
+    margin-top: 66px;
+}
+
+.bodyContentCardRow {
+    margin-top: 4px;
+}
+
+.bodyContentPayBefore {
+    color: #4A4A4A;
+}
+
+.bodyContentPayDate {
+    color: #004853;
+}
+
+.bodyContentCardTotal-Cancel {
+    font-size: 20px;
+    color: #999999;
+    height: 48px;
+    width: 175px;
+    border-color: white;
+    padding-bottom: 4px;
+}
+
+.bodyCardTotalPrize {
+    font-size: 28px;
+    color: #4A4A4A;
+    text-align: end;
+    padding-top: 18px;
+}
+
+.bodyCardContentButtonPayNow {
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #FB6900;
+    text-align: center;
+    height: 48px;
+    width: 175px;
+    padding-bottom: 4px;
+}
+
+.bodyCardContentButtonDetail {
+    font-size: 20px;
+    height: 48px;
+    width: 175px;
+    margin-left: 24px;
+    padding-bottom: 4px;
+}
