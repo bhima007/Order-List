@@ -3,7 +3,7 @@ import React from 'react';
 const HeaderLogoKanan = () => {
     return ( 
         <div>
-            <h1>Logo Kiri</h1>
+            <h1>LOGO KIRI</h1>
         </div>
      );
 }
